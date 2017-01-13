@@ -9,7 +9,6 @@ ex) MCSL_YUV_Merge input1.yuv input2.yuv input3.yuv input4.yuv 1920x1080 output.
 result= output.yuv (3840x2160) 
 
 
-------
 Created by JanWoo Son (superharoldson@gmail.com)
 Multimedia Communications and Systems Lab(MCSL)
 http://mcsl.gachon.ac.kr
