@@ -13,7 +13,7 @@ import sys
 
 
 def print_usage():
-    print("Usage : \nMCSL_YUV_Cropper [input_file1] [input_file2] [input_file3] [input_file4] [input_resolution] [output_file]")
+    print("Usage : \nMCSL_YUV_Merge_v1.0.py [input_file1] [input_file2] [input_file3] [input_file4] [input_resolution] [output_file]")
     print("resolution : WIDTHxHEIGHT")
     print("ex) MCSL_YUV_Merge input1.yuv input2.yuv input3.yuv input4.yuv 1920x1080 output.yuv")
     print("result= output.yuv (3840x2160) \n")
