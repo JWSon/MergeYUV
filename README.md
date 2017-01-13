@@ -15,7 +15,7 @@ result= output.yuv (3840x2160)
 
 
 ------
-Created by JanWoo Son (superharoldson@gmail.com)
+Created by JangWoo Son (superharoldson@gmail.com)
 Multimedia Communications and Systems Lab(MCSL)
 http://mcsl.gachon.ac.kr
 Department of Computer Engineering
